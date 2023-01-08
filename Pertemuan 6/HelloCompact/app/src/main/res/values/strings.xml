@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello Compact Yuli</string>
+    <string name="change_color">change_color</string>
+    <string name="hello_world">hello_world</string>
+</resources>

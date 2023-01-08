@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">List Shopping Challenge</string>
+    <string name="add_item">Add Item</string>
+    <string name="Beras">Beras</string>
+    <string name="Roti">Roti</string>
+    <string name="Susu">Susu</string>
+    <string name="Tepung">Tepung</string>
+    <string name="keju">Keju</string>
+    <string name="Ayam">Ayam</string>
+    <string name="Gula">Gula</string>
+    <string name="Garam">Garam</string>
+    <string name="Minyak_Goreng">Minyak Goreng</string>
+    <string name="space" />
+</resources>
