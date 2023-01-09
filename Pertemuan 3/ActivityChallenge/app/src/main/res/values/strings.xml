@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Activity Challenge</string>
+    <string name="button_main">Si Kancil dan buaya</string>
+    <string name="button_main2">si Kelinci yang Sombong dan Kura-Kura</string>
+    <string name="button_main3">Persahabatan Tikus dan Singa</string>
+    <string name="article">Dikisahkan pada suatu hari, Kancil merasa sangat lapar namun ia harus
+        menyebrangi sungai untuk mendapatkan makanan tersebut.Dengan kecerdikannya, Kancil
+        memberanikan diri menghampiri para buaya dan membuat kesepakatan pada buaya bahwa ia membawa
+        berita baik dari raja hutan untuk memberikan daging kepada para buaya di sungai. Merasa
+        percaya dengan ucapan kancil, buaya pun menyepakatinya dan bersedia berbaris dari tepi
+        sungai sampai ke ujung sebrang sungai hingga membentuk jembatan. Kancil pun menyebrangi
+        sungai dengan bantuan para buaya. Namun sesampainya di sebrang sungai, Kancil langsung
+        mengucapkan terima kasih kepada para baya karena mau membantunya menyebrangi sungai kemudian
+        langsung melarikan diri. Hal ini pun membuat para buaya marah karena merasa dibohongi.</string>
+    <string name="article2">Pada suatu hari disebuah hutan, Kelinci yang merasa Kura-Kura sangat
+        lambat mengajaknya balap lari untuk membuktikan kehebatan Kelinci dalam berlari. Kura-kura
+        yang rendah hati menyambut gembira ajakan Kancil. Keduanya pun mempersiapkan balap lari
+        mereka ditemani dengan para hewan lain di hutan. Kelinci yang merasa hebat pun berhasil
+        lari lebih dulu dibanding Kura-Kura yang berjalan amat lambat. Saat mendekati garis finish,
+        Kelinci memutuskan untuk beristirahat di bawah pohon yang rindang. Kelinci yakin, Kura-kura
+        pasti masih lama jadi ia memutuskan untuk tertidur sebentar hingga tak menyadari ia sampai
+        larut dalam tidurnya dan membuat Kura-Kura telah lebih dulu sampai lebih di garis finish.</string>
+    <string name="article3">Diceritakan bahwa seorang Tikus yang menjahili Singa dikala sedang
+        menikmati tidur siang, sontak membuat Singa tersebut marah dan ingin memakan sang Tikus
+        karena merasa terganggu. Sambil meringis ketakutan, Tikus pun memohon kepada Singa untuk
+        melepaskannya dan memaafkan kejahilan yang ia perbuat. Merasa kasihan, Singa melepaskan
+        Tikus. Tikus merasa senang, ia berterima kasih dan berjanji untuk membalas semua kebaikan
+        Singa padanya. Lalu pada suatu hari, Tikus mendengar suara Singa yang mengaung keras.
+        Sang Singa ternyata terperangkap disebuah jaring yang sengaja dipasang oleh pemburu.
+        Singa memohon bantuan Tikus untuk melepaskan jaring tersebut. Dengan sigap, Tikus membantu
+        Singa keluar dari jaring tersebut dengan menggerogoti jaring sampai terputus. Keduanya pun
+        segera kabur dan menyelamatkan diri. Kisah persahabatan Tikus dan Singa dapat</string>
+</resources>
